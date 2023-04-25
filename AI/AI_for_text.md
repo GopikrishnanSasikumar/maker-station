@@ -48,16 +48,35 @@ Use the [machine learning learning learning path](https://github.com/Gopikrishna
 *Video Tutorials*
 
 - [NLP zero to hero by tensorflow : Tokenization](https://youtu.be/fNxaJsNG3-s)
+- [Word embeddings by computerphile](https://youtu.be/gQddtTdmG_8)
 
 *📄  Articles/Blogs*
 
-- WIP
+- [Text preprocessing by analytics vidya](https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/)
+- [Intro to bag of word by machine learning mastery](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+- [What are N-grams by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/09/what-are-n-grams-and-how-to-implement-them-in-python/)
+- [What are word-embeddings by machine learning mastery](https://machinelearningmastery.com/what-are-word-embeddings/)
 
 **🛠️ Get into action**
 
-- Download one of your whatsapp chat as CSV file and apply text preprocessing on it
+- Download one of your whatsapp chat in CSV format and apply text preprocessing 
 
 
+### Various NLP tasks
+
+**🎓 Topics to Learn**
+
+```
+- Text classification
+- Entity extraction
+- Translation
+- Summarization
+- Question answering
+```
+
+*Video Tutorials*
+
+- WIP
 
 
 
